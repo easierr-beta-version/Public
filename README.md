@@ -17,7 +17,7 @@ If you found bugs, have requests for features or questions, please let us know b
 **Citing EasieRR**
 
 If you use EasieRR in publications or elsewhere, please acknowledge the authors’ work and cite the software as follows: 
-Rasmussen, J. H., Rosenberger, K., Langbein, J. (2019). EasieRR: An open-access software for non-invasive heart rate variability assessment. Manuscript in preparation. DOI:
+**Rasmussen, J. H., Rosenberger, K., Langbein, J. (2019). EasieRR: An open-access software for non-invasive heart rate variability assessment. Manuscript in preparation. DOI:**
 
 **Licence**
 
