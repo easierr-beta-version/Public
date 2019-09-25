@@ -7,7 +7,7 @@ The software offers analysis of HRV in the time- and non-linear domain.
 
 Application Documentation
 
-The official documentation is hosted here: https://figshare.com/account/home#/projects/68594
+The official documentation is hosted here: https://figshare.com/account/home#/projects/68594.
 The documentation provides a user manual as well as tutorials and support.
 
 Bugs, requests, questions
@@ -16,10 +16,10 @@ If you found bugs, have requests for features or questions, please let us know b
 
 Citing EasieRR
 
-If you use EasieRR in publications or elsewhere, please acknowledge the authors’ work and cite the software as follows: DOI:
-The full publication is available here:….and should be cited as: ….. DOI:
+If you use EasieRR in publications or elsewhere, please acknowledge the authors’ work and cite the software as follows: 
+Rasmussen, J. H., Rosenberger, K., Langbein, J. (2019). EasieRR: An open-access software for non-invasive heart rate variability assessment. Manuscript in preparation. DOI:
 
 Licence
 
-Distributed with a X license:
-Copyright (C) …..
+Distributed with a X license.
+Copyright (C) Jeppe Have Rasmussen
